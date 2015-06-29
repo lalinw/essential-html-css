@@ -65,7 +65,7 @@ dd {
 
 /* links */
 
-a:href {
+a:link {
     color: #0000AA;
     text-decoration: none;
 }
