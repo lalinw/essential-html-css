@@ -9,14 +9,15 @@ INFO 343
 
 
 body {
+
+}
+
+main {
     font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
     font-size: 18px;
     font-weight: 300;
     background-image: url('../img/background.jpg');
     background-size: 100% 100%;
-}
-
-main {
     margin-left: 30%;
     margin-bottom: 20px;
     margin-right: 20px;
