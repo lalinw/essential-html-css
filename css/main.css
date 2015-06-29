@@ -28,7 +28,8 @@ main {
 
 header {
     background-color: #FA5A0F;
-    border-bottom: 5px, #EA4A00;
+    border-bottom-color: #EA4A00;
+    border-bottom-width: 5px;
     color: #FFFFFF;
     
 }
@@ -43,7 +44,8 @@ menu {
 
 footer {
     background-color: #FC892F;
-    border-top: 5px, #EC791F;
+    border-top-color: #EC791F;
+    border-top-width: 5px;
     font-size: 80%;
     text-align: right;
 }
