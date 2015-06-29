@@ -16,9 +16,6 @@ body {
 
 
 main {
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 18px;
-    font-weight: 300;
     margin-left: 30%;
     margin-bottom: 20px;
     margin-right: 20px;
@@ -36,6 +33,12 @@ header {
 
 header, footer, #info, #menu, #about {
     padding: 1em;
+}
+
+p, dt, dd {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 #menu {
