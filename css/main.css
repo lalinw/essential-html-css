@@ -14,7 +14,6 @@ body {
     font-weight: 300;
     background-image: url('../img/background.jpg');
     background-size: 100% 100%;
-    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
