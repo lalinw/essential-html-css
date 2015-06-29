@@ -9,7 +9,7 @@ INFO 343
 
 
 body {
-    font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 300;
     background: url('../img/background.jpg');
@@ -87,7 +87,7 @@ input:focus {
 /* headings */
 
 h {
-    font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-family: 'Raleway', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 300;
 }
 
