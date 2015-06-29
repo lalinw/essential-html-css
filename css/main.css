@@ -65,12 +65,12 @@ dd {
 
 /* links */
 
-a:href, a:visited {
+a:href, :visited {
     color: #0000AA;
     text-decoration: none;
 }
 
-a:hover, input:focus {
+:hover, input:focus {
     color: #0000EE;
 }
 
