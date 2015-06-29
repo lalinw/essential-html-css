@@ -39,7 +39,7 @@ header, footer, #info, #menu, #about {
 }
 
 menu {
-    background: rgba(207,205,140,0.5);    
+    background-color: rgba(207,205,140,0.5);    
 }
 
 footer {
@@ -65,12 +65,12 @@ dd {
 
 /* links */
 
-a:href, :visited {
+a:href, a:visited {
     color: #0000AA;
     text-decoration: none;
 }
 
-:hover, input:focus {
+a:hover, input:focus {
     color: #0000EE;
 }
 
