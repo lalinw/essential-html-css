@@ -9,15 +9,16 @@ INFO 343
 
 
 body {
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 18px;
-    font-weight: 300;
     background: url('../img/background.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
 
+
 main {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
     margin-left: 30%;
     margin-bottom: 20px;
     margin-right: 20px;
@@ -38,7 +39,7 @@ header, footer, #info, #menu, #about {
     padding: 1em;
 }
 
-menu {
+#menu {
     background-color: rgba(207,205,140,0.5);    
 }
 
