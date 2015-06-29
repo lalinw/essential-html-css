@@ -4,8 +4,8 @@ INFO 343
 */
 
 
-<link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
 
 
 body {
@@ -14,7 +14,7 @@ body {
     font-weight: 300;
     background-image: url('../img/background.jpg');
     background-size: 100% 100%;
-    background-repeay: no-repeat;
+    background-repeat: no-repeat;
 }
 
 main {
