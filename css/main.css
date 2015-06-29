@@ -32,7 +32,6 @@ header {
     border-bottom-color: #EA4A00;
     border-bottom-width: 5px;
     color: #FFFFFF;
-    
 }
 
 header, footer, #info, #menu, #about {
@@ -41,6 +40,10 @@ header, footer, #info, #menu, #about {
 
 #menu {
     background-color: rgba(207,205,140,0.5);    
+}
+
+address {
+    font-style: italic;
 }
 
 footer {
