@@ -27,6 +27,7 @@ main {
 header {
     background-color: #FA5A0F;
     border-bottom-color: #EA4A00;
+    border-bottom-style: solid;
     border-bottom-width: 5px;
     color: #FFFFFF;
 }
@@ -52,6 +53,7 @@ address {
 footer {
     background-color: #FC892F;
     border-top-color: #EC791F;
+    border-top-style: solid;
     border-top-width: 5px;
     font-size: 80%;
     text-align: right;
